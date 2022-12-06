@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 int main() {
     // Vector Check
     int n1, a1[100] = { 0 }, n2, a2[100] = { 0 };
